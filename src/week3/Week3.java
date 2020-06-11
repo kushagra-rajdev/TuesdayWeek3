@@ -13,6 +13,7 @@ public class Week3 {
     public static void main(String[] args) {
        System.out.println("Pushing a Message");
         System.out.println("Push Changing a Message +fetch");
+        System.out.println("Push Changing a Message +fetch");
     }
 
 }
