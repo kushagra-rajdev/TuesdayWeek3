@@ -14,6 +14,7 @@ public class Week3 {
        System.out.println("Pushing a Message");
         System.out.println("Push Changing a Message +fetch");
         System.out.println("Push Changing a Message +fetch");
+        System.out.println("Edit");
     }
 
 }
